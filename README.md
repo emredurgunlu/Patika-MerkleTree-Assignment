@@ -1,6 +1,8 @@
 # Patika.dev Community Gaming Solana & Rust Practicum
 ## Hands on Task: Merkle Tree Root Calculator on Rust
 
+(Note: This repo is for learning purposes. When creating the folder structure, I got help from <a href="https://github.com/fuujazz/Patika-MerkleTree-Assignment">this repo</a>)
+
 Firstly, we should understand what is Merkle Tree and how it works well. In order to do this, please research about [merkle tree](https://en.wikipedia.org/wiki/Merkle_tree) and 
 watch [the video](https://www.youtube.com/watch?v=n6nEPaE7KZ8) carefully.
 
@@ -59,3 +61,9 @@ izmirdenizli
 cargo run test
 ```
 8. Pass all tests :)
+
+![Adsız1](https://user-images.githubusercontent.com/95712676/193149159-5025a96c-3e84-4098-b2b4-be4a30f2148e.png)
+
+![Adsız](https://user-images.githubusercontent.com/95712676/193149184-569c3428-8891-42a7-8f89-5a8d0aa3b078.png)
+
+
